@@ -26,7 +26,7 @@ after removing (with metrics) -
 
 ![image](https://github.com/user-attachments/assets/899b99a3-5298-49a8-b69e-d1f1a0715e28)
 
-Noise removalusing different filters
+Noise removal using different filters
 
 1.
     ![image](https://github.com/user-attachments/assets/adbd545f-7bf2-4461-9e53-8f6aa445b4f3)
